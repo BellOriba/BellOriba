@@ -21,7 +21,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-  
+
+### L'art de programmer: 
+![Image](https://github.com/GaOS-Oliveira/GaOS-Oliveira/blob/main/Peter%20(Pierre%20Brassau)%20at%20Work%20(3).jpg)
 <!--
 https://github.com/Ileriayo/markdown-badges
 -->
