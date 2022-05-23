@@ -1,4 +1,4 @@
-### Hey, what's up? My name is Gabriel
+## Hey, what's up? My name is Gabriel 👋
 
 <hr>
 
