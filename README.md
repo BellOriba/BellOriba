@@ -1,22 +1,20 @@
-<h1 align="center">Hi 👋, I'm Gabriel Oliveira</h1>
-<h3 align="center">I'm a Computer Science student.</h3>
+### Hey, what's up? My name is Gabriel 
+- 🎉 I'm 18 years old 
+- 👨‍💻 I'm a computer science student
+- 🌱 Studying .Net, Python 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaos-oliveira&label=Profile%20views&color=0e75b6&style=flat" alt="gaos-oliveira" /> </p>
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-oliveira-833518212/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://mail.google.com/mail/u/0/#search/gabrieloliveira.gos04@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+<br>
+<div>
+  <a href="https://github.com/GaOS-Oliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GaOS-Oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOs-Oliveira&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-- 🌱 I’m currently learning **.Net, Python**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriel-oliveira-833518212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-oliveira-833518212" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaos-oliveira&show_icons=true&locale=en&layout=compact" alt="gaos-oliveira" /></p>
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaos-oliveira&show_icons=true&locale=en" alt="gaos-oliveira" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaos-oliveira&" alt="gaos-oliveira" /></p>
--->
+<div style="display: inline_block">
+  <img align="center" alt="Gabriel-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+  
