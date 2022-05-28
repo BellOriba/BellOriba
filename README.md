@@ -2,7 +2,6 @@
 
 <hr>
 
-- 🎉 I'm 18 years old 
 - 👨‍💻 I'm a computer science student
 - 🌱 Studying .Net, Python, C#, MySQL
 
