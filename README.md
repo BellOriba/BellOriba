@@ -4,7 +4,7 @@
 
 - 🎉 I'm 18 years old 
 - 👨‍💻 I'm a computer science student
-- 🌱 Studying .Net, Python, C#
+- 🌱 Studying .Net, Python, C#, MySQL
 
 ### Reach me here:
 <div>
@@ -21,7 +21,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
 <!--
 https://github.com/Ileriayo/markdown-badges
 -->
