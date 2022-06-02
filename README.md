@@ -11,8 +11,8 @@
 <hr>
 <div>
   <a href="https://github.com/GaOS-Oliveira">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GaOS-Oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOs-Oliveira&layout=compact&langs_count=16&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaOS-Oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOs-Oliveira&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
