@@ -1,4 +1,4 @@
-## Hey, what's up? My name is Gabriel 👋
+<h1 align="center">Hey, what's up? My name is Gabriel 👋</h1>
 
 ## Reach me here:
 <div>
