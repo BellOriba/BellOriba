@@ -15,11 +15,37 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOs-Oliveira&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-<kbd> ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white) </kbd>
-<kbd> ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) </kbd>
-<kbd> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) </kbd>
+<kbd align="center">**Python Development**
+<br><br>
+![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
+</kbd>
+<kbd align="center">**C# Development**
+<br><br>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+</kbd>
+<kbd align="center">**Databases**
+<br><br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</kbd>
 
 <!--
 https://github.com/Ileriayo/markdown-badges
+-->
+
+<!-- Python Development
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+-->
+  
+<!-- C# aDevelopment
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+-->
+  
+<!-- Databases
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 -->
