@@ -23,6 +23,7 @@
 <br><br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 </kbd>
 <kbd align="center">**Databases**
 <br><br>
@@ -43,7 +44,6 @@ https://github.com/Ileriayo/markdown-badges
 -->
   
 <!-- C# aDevelopment
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 -->
   
 <!-- Databases
