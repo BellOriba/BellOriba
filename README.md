@@ -1,11 +1,12 @@
-<h1 align="center">Hey, what's up? My name is Gabriel 👋</h1>
+<a href="https://github.com/GaOS-Oliveira/exercices_edusync"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GaOS-Oliveira&repo=exercices_edusync&theme=tokyonight&show_owner=true"></a>
 
-## Reach me here :point_down::
-<div>
+<h1 align="left">Hello! My name is Gabriel 👋</h1>
+
+<h1> Reach me here:
   <kbd><a href="https://www.linkedin.com/in/gabriel-oliveira-833518212/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://mail.google.com/mail/u/0/#search/gabrieloliveira.gos04@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/gaos-oliva/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a></kbd>
-</div>
+</h1>
 
 <hr>
 
@@ -26,9 +27,10 @@
 
 <div align="center">
   <a href="https://github.com/GaOS-Oliveira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaOS-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaOS-Oliveira&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOs-Oliveira&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+
 <!--
 https://github.com/Ileriayo/markdown-badges
 -->
