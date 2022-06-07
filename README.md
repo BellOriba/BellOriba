@@ -1,6 +1,3 @@
-<div align="right">My main project currently - .NET Course:</div>
-<a href="https://github.com/GaOS-Oliveira/exercices_edusync"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GaOS-Oliveira&repo=exercices_edusync&theme=tokyonight&show_owner=true"></a>
-
 <h1 align="center">Hello! My name is Gabriel 👋</h1>
 
 <h1 align="left"> Reach me here:
@@ -25,6 +22,14 @@
 <br><br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </kbd>
+
+<div align="center">
+<kbd align="center">
+  <b>My main project currently - .NET Course:</b>
+  <br><br>
+  <a href="https://github.com/GaOS-Oliveira/exercices_edusync"><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaOS-Oliveira&repo=exercices_edusync&theme=tokyonight&show_owner=true"></a>
+</kbd>
+</div>
 
 <div align="center">
   <a href="https://github.com/GaOS-Oliveira">
