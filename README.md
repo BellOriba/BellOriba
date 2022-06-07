@@ -24,14 +24,6 @@
 </kbd>
 
 <div align="center">
-<kbd align="center">
-  <b>My main project currently - .NET Course:</b>
-  <br><br>
-  <a href="https://github.com/GaOS-Oliveira/exercices_edusync"><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaOS-Oliveira&repo=exercices_edusync&theme=tokyonight&show_owner=true"></a>
-</kbd>
-</div>
-
-<div align="center">
   <a href="https://github.com/GaOS-Oliveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaOS-Oliveira&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOs-Oliveira&layout=compact&langs_count=16&theme=tokyonight"/>
@@ -82,5 +74,17 @@ https://github.com/Ileriayo/markdown-badges
 <br>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
 </kbd>
+
+-->
+
+<!--
+
+<div align="center">
+<kbd align="center">
+  <b>My main project currently - .NET Course:</b>
+  <br><br>
+  <a href="https://github.com/GaOS-Oliveira/exercices_edusync"><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=GaOS-Oliveira&repo=exercices_edusync&theme=tokyonight&show_owner=true"></a>
+</kbd>
+</div>
 
 -->
