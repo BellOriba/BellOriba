@@ -1,4 +1,6 @@
-<a href="https://github.com/GaOS-Oliveira/exercices_edusync"><img align="right" alt="My Main Project Currently" src="https://github-readme-stats.vercel.app/api/pin/?username=GaOS-Oliveira&repo=exercices_edusync&theme=tokyonight&show_owner=true"></a>
+<div dir="rtl" width="500em">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:My main project currently - .NET Course</div>
+
+<a href="https://github.com/GaOS-Oliveira/exercices_edusync"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GaOS-Oliveira&repo=exercices_edusync&theme=tokyonight&show_owner=true"></a>
 
 <h1 align="left">Hello! My name is Gabriel 👋</h1>
 
