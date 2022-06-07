@@ -1,7 +1,7 @@
 <div align="right">My main project currently - .NET Course:</div>
 <a href="https://github.com/GaOS-Oliveira/exercices_edusync"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GaOS-Oliveira&repo=exercices_edusync&theme=tokyonight&show_owner=true"></a>
-  
-<h1 align="left">Hello! My name is Gabriel 👋</h1>
+
+<h1 align="center">Hello! My name is Gabriel 👋</h1>
 
 <h1 align="left"> Reach me here:
   <kbd><a href="https://www.linkedin.com/in/gabriel-oliveira-833518212/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
