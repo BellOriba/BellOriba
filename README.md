@@ -9,12 +9,6 @@
 
 <hr>
 
-<div align="center">
-  <a href="https://github.com/GaOS-Oliveira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaOS-Oliveira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOs-Oliveira&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
 <kbd align="center">**Python Development**
 <br><br>
 ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -23,16 +17,18 @@
 <br><br>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br><br>
-<kbd align="center">**Frameworks**
-<br><br>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-</kbd>
 </kbd>
 <kbd align="center">**Databases**
 <br><br>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </kbd>
 
+<div align="center">
+  <a href="https://github.com/GaOS-Oliveira">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GaOS-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOs-Oliveira&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
 <!--
 https://github.com/Ileriayo/markdown-badges
 -->
