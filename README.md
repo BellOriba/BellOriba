@@ -2,7 +2,6 @@
 
 <kbd><a href="https://www.linkedin.com/in/gabriel-oliveira-833518212/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></kbd>
 <kbd><a href="https://mail.google.com/mail/u/0/#search/gabrieloliveira.gos04@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></kbd>
-<kbd><a href="https://steamcommunity.com/id/gaosoliva/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a></kbd>
 
 ## Languages and Tools 🛠:
 <kbd align="center">![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)</kbd>
