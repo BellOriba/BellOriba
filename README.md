@@ -4,6 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gaos-oliveira.gaos-oliveira)
 -->
 
+
 ```python
 class GaOS(object):
     def __init__(self):
@@ -40,13 +41,15 @@ me.getInformationAboutMe()
     <br>
     <kbd><a href="https://www.linkedin.com/in/gabriel-oliveira-833518212/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></kbd>
     <kbd><a href="https://mail.google.com/mail/u/0/#search/gabrieloliveira.gos04@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></kbd>
-</details>
+    <kbd><a href="https://steamcommunity.com/id/gaosoliva/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></kbd>
+<br><br>
+    
+[![Discord Presence](https://lanyard.cnrad.dev/api/226133687433953280?hideStatus=true&hideTimestamp=true&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/226133687433953280)
 
+</details>
 <!--
 https://github.com/Ileriayo/markdown-badges
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/226133687433953280)](https://discord.com/users/226133687433953280)
-
+https://github.com/cnrad/lanyard-profile-readme
 -->
 
 <!-- Learning:
