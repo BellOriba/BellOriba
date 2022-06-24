@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:7114b3&height=150&text=Hello!%20I'm%20Gabriel%20👋&fontSize=25&fontAlignY=25&fontColor=f7f5f5" alt="header" width="100%" />
 
+
 <kbd><a href="https://www.linkedin.com/in/gabriel-oliveira-833518212/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></kbd>
 <kbd><a href="https://mail.google.com/mail/u/0/#search/gabrieloliveira.gos04@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></kbd>
 
@@ -19,6 +20,9 @@
 
 <!--
 https://github.com/Ileriayo/markdown-badges
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/226133687433953280)](https://discord.com/users/226133687433953280)
+
 -->
 
 <!-- Learning:
