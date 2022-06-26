@@ -37,7 +37,7 @@ me.getInformationAboutMe()
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOs-Oliveira&layout=compact&langs_count=16&theme=tokyonight"/>
 </details>
 <details>
-  <summary><b>📧 Contact</b></summary>
+  <summary><b>📧 Where you can find me</b></summary>
     <br>
     <kbd><a href="https://www.linkedin.com/in/gabriel-oliveira-833518212/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></kbd>
     <kbd><a href="https://mail.google.com/mail/u/0/#search/gabrieloliveira.gos04@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></kbd>
