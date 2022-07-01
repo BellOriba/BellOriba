@@ -42,9 +42,12 @@ me.getInformationAboutMe()
     <kbd><a href="https://www.linkedin.com/in/gabriel-oliveira-833518212/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></kbd>
     <kbd><a href="https://mail.google.com/mail/u/0/#search/gabrieloliveira.gos04@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></kbd>
 </details>
-<!--
+
+<!-- Help:
+
 https://github.com/Ileriayo/markdown-badges
 https://github.com/cnrad/lanyard-profile-readme
+
 -->
 
 <!-- Learning:
@@ -64,5 +67,6 @@ https://github.com/cnrad/lanyard-profile-readme
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+
 -->
