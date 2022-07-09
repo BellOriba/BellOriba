@@ -10,7 +10,6 @@ class GaOS(object):
     def __init__(self):
         self.username = 'GaOS-Oliveira'
         self.name = 'Gabriel Olivera'
-        self.age = '18'
         self.language_spoken = ["pt_BR", "en_US"]
         
     def getInformationAboutMe(self):
