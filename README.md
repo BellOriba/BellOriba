@@ -31,12 +31,14 @@ me.getInformationAboutMe()
 <hr>
 
 ### More Stuff:
+<!--
 <details>
   <summary><b>📊 Stats</b></summary>
     <br>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GaOS-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaOS-Oliveira&layout=compact&langs_count=16&theme=tokyonight"/>
 </details>
+-->
 <details>
   <summary><b>📧 Where you can find me</b></summary>
     <br>
