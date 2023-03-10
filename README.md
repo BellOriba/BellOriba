@@ -1,8 +1,9 @@
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:7114b3&height=150&text=Hello!%20I'm%20Gabriel%20👋&fontSize=25&fontAlignY=25&fontColor=f7f5f5" alt="header" width="100%" />
 
-<!--
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gaos-oliveira.gaos-oliveira)
--->
+
 
 
 ```python
@@ -19,7 +20,7 @@ class GaOS(object):
 me = GaOS()
 me.getInformationAboutMe()
 ```
-
+-->
 ### 🛠 Languages and Tools:
 <kbd align="center">![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white)</kbd>
 <kbd align="center">![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
