@@ -21,24 +21,34 @@ me = GaOS()
 me.getInformationAboutMe()
 ```
 -->
+
 ### Languages and Tools that I use
 <kbd align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python"><br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"><br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas"></kbd>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django"></kbd>
 <kbd align="center"><img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++"></kbd>
 <kbd align="center"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust"></kbd>
 
 <kbd align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="Microsoft SQL Server">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"></kbd>
 <kbd align="center"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI">
 <img src="https://img.shields.io/badge/Excel%20&%20VBA-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" alt="Excel and VBA"></kbd>
 <kbd align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS"></kbd>
 <kbd align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"></kbd>
 
+
+<!-- POSTGRESQL: <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
+    KUBERNETES: <kbd align="center"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes"></kbd> 
+    CONDA: <kbd align="center"><img src="https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white" alt="Conda"></kbd> 
+    QISKIT: <kbd align="center"><img src="https://img.shields.io/badge/Qiskit-000000?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit"></kbd> 
+    JAVASCRIPT + NODE.JS: <kbd align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js"></kbd>
+
+-->
 <hr>
 
      - - - - - - - - - - - - - - - - - - - - MADE WITH ASCII MEDIAPLAYER - - - - - - - - - - - - - - - - - - - - -
@@ -118,6 +128,8 @@ me.getInformationAboutMe()
     ...............,:;+*???S%%;::*:::::??;*;+++**?S?::;+++++?%::::::;?:;S?++;++++++++******?%%%***++;,............
     ......................;S??;::*::::;S?:.....,,,:;:++;;;;;*S+:::::;?::*%+*****??????**+;;;;;,...................
     ......................:%*?;::*::::+S+............,::;;;++?%:::::;?::;%?+;;;;:::,,.............................
+
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=BellOriba&repo=ascii_mediaplayer)](https://github.com/BellOriba/ascii_mediaplayer)
 <!--### More Stuff:-->
 
 <!--
