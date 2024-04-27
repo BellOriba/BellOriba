@@ -129,10 +129,11 @@ me.getInformationAboutMe()
     ......................;S??;::*::::;S?:.....,,,:;:++;;;;;*S+:::::;?::*%+*****??????**+;;;;;,...................
     ......................:%*?;::*::::+S+............,::;;;++?%:::::;?::;%?+;;;;:::,,.............................
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=BellOriba&repo=ascii_mediaplayer)](https://github.com/BellOriba/ascii_mediaplayer)
 <!--### More Stuff:-->
 
 <!--
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=BellOriba&repo=ascii_mediaplayer)](https://github.com/BellOriba/ascii_mediaplayer)
+
 <details>
   <summary><b>📊 Stats</b></summary>
     <br>
