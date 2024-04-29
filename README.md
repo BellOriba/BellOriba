@@ -51,7 +51,7 @@ me.getInformationAboutMe()
 -->
 <hr>
 
-![Tiradentes Esquartejado ASCII](imgs/tiradantesAscii.png)
+![Tiradentes Esquartejado ASCII](imgs/tiradentesAscii.png)
 
 <!--
      - - - - - - - - - - - - - - - - - - - - MADE WITH ASCII MEDIAPLAYER - - - - - - - - - - - - - - - - - - - - -
