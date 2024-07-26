@@ -31,14 +31,12 @@ me.getInformationAboutMe()
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white" alt="Django"></kbd>
 <kbd align="center"><img src="https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=C&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++"></kbd>
-<kbd align="center"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust"></kbd>
 
 <kbd align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"></kbd>
 <kbd align="center"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI">
-<img src="https://img.shields.io/badge/Excel%20&%20VBA-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" alt="Excel and VBA"></kbd>
-<kbd align="center"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS"></kbd>
-<kbd align="center"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker"></kbd>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
 
 
 <!-- POSTGRESQL: <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
@@ -47,7 +45,8 @@ me.getInformationAboutMe()
     QISKIT: <kbd align="center"><img src="https://img.shields.io/badge/Qiskit-000000?style=for-the-badge&logo=Qiskit&logoColor=white" alt="Qiskit"></kbd> 
     JAVASCRIPT + NODE.JS: <kbd align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js"></kbd>
-
+RUST: <kbd align="center"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white" alt="Rust"></kbd>
+<img src="https://img.shields.io/badge/Excel%20&%20VBA-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" alt="Excel and VBA"></kbd>
 -->
 <hr>
 
